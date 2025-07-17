@@ -1,8 +1,6 @@
+
+
 <h1 align="center">🕷️ D3syn__Cr34T0r  ☠️</h1>
-<p align="center">Web Developer 🧬🧪 | Innovating Web Designs For Future 🧠🎨 | Learn New Things Faster ⚡🚀 </p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Compiling+Dreams...;Rendering+Glitches...;Coding+Beyond+404...&center=true&width=420"></p>
-
-
 
 <div align="center">
   <a>
@@ -35,6 +33,8 @@
 ###
 
 <p align="center">I'm Web Developer 🧬🧪 | Innovating Web Designs For Future 🧠🎨 | Learn New Things Faster ⚡🚀</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Compiling+Dreams...;Rendering+Glitches...;Coding+Beyond+404...&center=true&width=420"></p>
+
 
 ###
 
@@ -51,4 +51,19 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
+
+
+
+
+---
+
+### 🧠 Quote Generator
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+> ⚙️ Want it **dark, glitchy, animated**, or minimalist? I can customize it. Just say the style you want!
 
